@@ -16,6 +16,7 @@ def quicksort(values):
 
 
 numbers = [121,31,11,23,14,4,8,2,1,33,52,112]
-sorted_numbers = quicksort(numbers)
+names = ["sadeeq","umar","musa","abu","mubi","zaid","xyz","motion","wick","sadeeq umar","sadeeq abu",]
+sorted_numbers = quicksort(names)
 
 print(sorted_numbers)
